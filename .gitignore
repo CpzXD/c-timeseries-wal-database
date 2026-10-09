@@ -1,0 +1,19 @@
+# Build and temporary artifacts
+build/
+bin/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.bin
+*.log
+
+# Visual Studio / IDE
+.vs/
+.vscode/
+x64/
+Debug/
+Release/
+MinSizeRel/
+RelWithDebInfo/

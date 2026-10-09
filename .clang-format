@@ -1,0 +1,10 @@
+BasedOnStyle: LLVM
+IndentWidth: 4
+ColumnLimit: 96
+BreakBeforeBraces: Linux
+PointerAlignment: Right
+SortIncludes: Never
+AllowShortFunctionsOnASingleLine: None
+AllowShortIfStatementsOnASingleLine: Never
+AllowShortLoopsOnASingleLine: false
+SeparateDefinitionBlocks: Always
